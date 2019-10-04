@@ -355,7 +355,7 @@ footer
 {
 	*, ::after, ::before
 	{
-    margin-bottom: -1px;
+    	margin-bottom: -1px;
 	}
 	.navbar-light .navbar-toggler 
 	{
@@ -378,8 +378,8 @@ footer
 	    padding-left: 1rem;
 	}
 	.nav-link {
-    display: block;
-    padding: 0.2rem 1rem;
+	    display: block;
+	    padding: 0.2rem 1rem;
 	}
 	.sec1
 	{
