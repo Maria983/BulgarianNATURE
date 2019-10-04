@@ -377,6 +377,10 @@ footer
 	    padding-right: 1rem;
 	    padding-left: 1rem;
 	}
+	.nav-link {
+    display: block;
+    padding: 0.2rem 1rem;
+	}
 	.sec1
 	{
 		padding: 20px 0;
